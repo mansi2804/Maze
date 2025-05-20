@@ -6,7 +6,7 @@ A modern, responsive maze puzzle game built with React and Tailwind CSS. Navigat
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
-## 🌟 Features
+## 🌟 Features 
 
 - 🏁 Procedurally generated mazes with different difficulty levels
 - 🎮 Intuitive controls (keyboard or touch)
