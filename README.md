@@ -44,7 +44,7 @@ A modern, responsive maze puzzle game built with React and Tailwind CSS. Navigat
    # or
    yarn start
    ```
-
+ 
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 🎮 How to Play
