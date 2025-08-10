@@ -15,7 +15,7 @@ A modern, responsive maze puzzle game built with React and Tailwind CSS. Navigat
 - 🔊 Sound effects for better game feel
 - 📱 Mobile-first design with touch controls 
 - 🎯 Win screen with game statistics
-
+ 
 ## 🚀 Getting Started
  
 ### Prerequisites
