@@ -17,7 +17,7 @@ A modern, responsive maze puzzle game built with React and Tailwind CSS. Navigat
 - 🎯 Win screen with game statistics
 
 ## 🚀 Getting Started
-
+ 
 ### Prerequisites
 
 - Node.js (v14 or later)
