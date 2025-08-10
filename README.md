@@ -7,7 +7,7 @@ A modern, responsive maze puzzle game built with React and Tailwind CSS. Navigat
 
   
 ## 🌟 Features 
-
+ 
 - 🏁 Procedurally generated mazes with different difficulty levels
 - 🎮 Intuitive controls (keyboard or touch)
 - ⏱️ Built-in timer and step counter
